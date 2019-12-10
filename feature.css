@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+body {
+    font-style:'Lora', serif;
+}
+
+.container {
+	text-align: left;
+	max-width: 50em;
+	margin: auto;
+	margin-top: 0;
+	margin-bottom: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-bottom: 2em;
+	font-size: 100%;
+}
+
+.navbar {
+background: white;
+height: 60pt;
+}
+
+h1 {
+  font-family: 'Noto Serif', serif;
+  font-size: 36pt;
+}
+
+h2 {
+font-size: 18pt;
+font-family: 'Lato', sans-serif;
+}
+
+h3 {
+font-size: 21pt;
+color: #2F3846;
+font-family: 'Noto Serif', serif;
+}
+
+blockquote {
+  font-size: 18pt;
+  font-family: 'Lato', sans-serif;
+  color: #002fa7;
+}
+
+h4 {
+font-size: 20pt;
+color: #002fa7;
+padding-top: 5pt;
+}
+
+h5 {
+text-align: right;
+font-size: 12pt;
+color: #24c4f8;
+}
+
+h6 {
+  padding-top: 12pt;
+font-size: 16pt;
+color: #2F3846;
+align: right;
+text-decoration: underline;
+    color: #2f3846;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+    font-size: 14pt;
+    color: #2f3846;
+    padding: 5pt;
+letter-spacing: 1px;
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+div.bottom{
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  width: 700px;
+  padding: 15px;
+  background-color: #e8d1bc;
+}
+.big {
+  line-height: 4px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 60px;
+  align-items: center;
+  text-align: center;
+  border-radius: 80%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #E60023;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.icon-ps-mark {
+    font-size: 48px;
+    color: #002fa7;
+  }
